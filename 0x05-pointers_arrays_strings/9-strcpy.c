@@ -1,7 +1,3 @@
-/*
- * File: 9-strcpy.c
- */
-
 #include "main.h"
 
 /**
@@ -12,7 +8,6 @@
  *
  * Return: A pointer to the destination string @dest.
  */
-
 char *_strcpy(char *dest, char *src)
 {
 	int index = 0;
